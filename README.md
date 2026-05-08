@@ -1,8 +1,8 @@
-Dungeon Dash
+DUNGEON DASH
 
 A grid-based 2D game developed using C++ in combination with the SFML (Simple and Fast Multimedia Library)
 
-Features
+FEATURES:
 
 - Player can move freely across the map using keyboard controls.
 - Enemies use simple AI logic to chase the player.
@@ -16,12 +16,12 @@ Features
        - Lose screen
 - Provides an interactive and engaging gaming experience.
 
-Technologies Used
+TECHNOLOGIES USED:
 
 - C++
 - SFML Library
 
-How to Run the Project
+HOW TO RUN:
 
 - Install a C++ compiler such as GCC.
 - Install a development environment like Visual Studio Code.
